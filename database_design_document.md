@@ -124,7 +124,7 @@ role_permission.permission_id → permissions.id
 
 ---
 
-## 4. Vấn đề kinh doanh giải quyết
+## 4. Vấn đề giải quyết
 
 - **Phân quyền truy cập**: RBAC chi tiết qua `roles` và `permissions`
 - **Phân bổ nguồn lực**: Gán người dùng cho dự án và công việc
