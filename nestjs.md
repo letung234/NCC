@@ -1427,6 +1427,7 @@ async findComplexUsersRepository(): Promise<any[]> {
   });
 }
 
+  ```
 
 #### 3.4 Tổng kết
 
